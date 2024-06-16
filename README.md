@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/25samarthpatil/samarth/blob/main/Presentation1.jpg)
 <h1 align="center">Hi 👋, I'm Samarth patil</h1>
 <h3 align="center">A passionate Embedded System Engineer from India</h3>
 <img align="right" alt="coding" width="400"src="https://rajacepat.com/assets/frontend/img/webdev.gif">
